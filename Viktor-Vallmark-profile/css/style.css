@@ -1,0 +1,98 @@
+nav a{
+    
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    text-decoration: none;
+    background-color: deeppink;
+    color: ghostwhite;
+    display: inline-block;
+    
+    height: 25px;
+    width: 200px;
+    text-align: center;
+
+
+}
+nav a:hover{
+
+    background-color: ghostwhite;
+    color: deeppink;
+}
+
+nav a:visited{
+
+    color: gray;
+}
+
+.aboutme{
+    /* border: 1px solid brown; */
+    /* margin-left: 0%;
+    margin-right: 0%;
+    padding-left: 0%;
+    padding-right: 0%; */
+    text-align: center;
+
+    color: #a52a2a;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+article{
+    font-family: fantasy;
+    /* border: 1px solid brown; */
+    text-align: center;
+}
+
+img{
+    height: 10rem;
+    width: 10rem;
+    padding-left: 52rem;
+    padding-right: 50rem;
+    /* border: solid black 1px; */
+    object-fit: none;
+    object-position: 100%;
+    /* object-fit: fill; */
+
+}
+
+
+blockquote{
+
+    font-family: monospace;
+    /* border: 1px solid blue; */
+    /* margin-block-end: 0; */
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: coral;
+}
+cite{
+    
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sources{
+
+    color: darkorchid;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.fredfrida{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.contact{
+    color: darkred;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.form_text{
+    text-align: center;
+    font-family: cursive;
+}
+form{
+
+    text-align: center;
+
+}
+
